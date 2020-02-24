@@ -1,4 +1,4 @@
-# test_flutter
+# mobile-note-taking
 
 A new Flutter application.
 
