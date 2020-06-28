@@ -1,4 +1,4 @@
-# mobile-note-taking
+# Note-taking Mobile Application
 
 A new Flutter application.
 
